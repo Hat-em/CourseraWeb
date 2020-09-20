@@ -8,13 +8,13 @@ body{
 h1 {
   text-align: center;
   margin-bottom: 15px;
-  font-size:1.75em;
+  font-size:175%;
 }
 
 p {
   padding: 30px 15px;
   width: 100%;
-  font-size:1.25em;
+  font-size:125%;
   color: black;
 }
 .yellow{
@@ -34,6 +34,7 @@ div > h2{
   border:  2px solid black;
   border-top:0px;
   border-right: 0px;
+  font-size:125%;
   text-align: center;
   background-color: #3281a8;
   float:right;
