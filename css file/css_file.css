@@ -8,9 +8,11 @@ body{
 h1 {
   text-align: center;
   margin-bottom: 15px;
+  font-size:1.75em;
 }
 
 p {
+  font-size:1.25em;
   padding: 30px 15px;
   width: 100%;
   color: black;
@@ -32,6 +34,7 @@ div > h2{
   border:  1px solid black;
   border-top:0px;
   border-right: 0px;
+  font-size:1.75em;
   text-align: center;
   background-color: #3281a8;
   float:right;
