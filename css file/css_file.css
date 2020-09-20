@@ -4,6 +4,7 @@ body{
 * {
   box-sizing: border-box;
   font-family: 'ABeeZee';
+  font-size:110%;
 }
 h1 {
   text-align: center;
@@ -47,7 +48,6 @@ div > h2{
     float: left;
     border: 1px solid black;
     margin:20px; 
-    height: 170px;
     width: 30%; 
   }
 }
